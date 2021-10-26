@@ -1,0 +1,7 @@
+name: ProtocolFirewall-Server
+main: me.galaxyeater.pfserver.ProtocolFirewallServer
+description: This is a server to gather information and stats for the plugin ProtocolFirewall
+author: GalaxyEaterGR
+version: 1.0.0
+depend:
+  - ProtocolFirewall
